@@ -1,0 +1,33 @@
+.div-first-column{
+	width: 45%;
+	float: left;
+}
+
+.div-second-column{
+	width: 54%;
+	float: left;
+}
+
+.div-main-margin{
+	margin: 0% 20%;
+}
+
+.div-float-left{
+	float: left;
+}
+
+.span-elem-in-line{
+	display: block;
+	width: 100px;
+	float: left;
+}
+
+.div-color-blue{
+	color: blue;
+}
+
+.hr{
+	width: 200px;
+	size: 3;
+	background-color: blue;
+}
